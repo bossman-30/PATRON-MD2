@@ -9,7 +9,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "PATRON-MD~ae5606bfcf833c66861417417206ab9e"
     },  
     
     "STICKER_NAME": {
@@ -33,7 +33,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },  
   
     "AUTO_VOICE": {
@@ -63,7 +63,7 @@
     "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STATUS_REPLY": {
@@ -81,13 +81,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴘᴀᴛʀᴏɴTᴇᴄʜＸ 🚹"
+      "value": "TLORD 🚹"
     }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "2348133729715"
+      "value": "2347076628518"
     }, 
     
     "ANTI_BAD": {
